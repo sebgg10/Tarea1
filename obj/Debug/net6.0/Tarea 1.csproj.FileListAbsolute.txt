@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\bin\Debug\net6.0\Tarea 1.exe
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\bin\Debug\net6.0\Tarea 1.deps.json
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\bin\Debug\net6.0\Tarea 1.runtimeconfig.json
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\bin\Debug\net6.0\Tarea 1.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\bin\Debug\net6.0\ref\Tarea 1.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\bin\Debug\net6.0\Tarea 1.pdb
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.AssemblyInfo.cs
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\ref\Tarea 1.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.pdb
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea1\obj\Debug\net6.0\Tarea 1.genruntimeconfig.cache
